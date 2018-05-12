@@ -1,0 +1,29 @@
+_repo: Epic-and-Romance--Essays-on-Medieval-Literature_20406
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ker, W. P. (William Paton)
+    alias: Ker, William Paton
+    birthdate: 1855
+    deathdate: 1923
+    gutenberg_agent_id: '9801'
+    url: http://www.gutenberg.org/2009/agents/9801
+description: ''
+gutenberg_issued: '2007-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature, Medieval -- History and criticism'
+- !lcsh 'Romances -- History and criticism'
+- !lcsh 'Epic poetry -- History and criticism'
+title: 'Epic and Romance: Essays on Medieval Literature'
+url: http://www.gutenberg.org/ebooks/20406
